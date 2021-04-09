@@ -29,5 +29,9 @@ Introduction :
 
 ![4w1h](https://user-images.githubusercontent.com/80378720/114154835-754dff00-993e-11eb-8826-6693a6483a2c.png)
 
-      
+## SWOT ANALYSIS
+
+
+![BMI SWOT](https://user-images.githubusercontent.com/80378720/114169014-a6cec680-994e-11eb-9f98-ab94e13d9e51.png)
+
       
