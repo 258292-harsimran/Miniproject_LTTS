@@ -24,6 +24,10 @@ Introduction :
     COST = 0
     TIME = 12 HOURS
     FEATURES = 3
-      
+ 
+## 4 W's 1 H 
+
+![4w1h](https://user-images.githubusercontent.com/80378720/114154835-754dff00-993e-11eb-8826-6693a6483a2c.png)
+
       
       
