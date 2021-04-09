@@ -24,6 +24,8 @@ Introduction :
       
       
       
+      
+      
 # COST AND FEATURES WITH TIME
     COST = 0
     TIME = 12 HOURS
@@ -31,9 +33,13 @@ Introduction :
  
  
  
+ 
+ 
 # 4 W's 1 H 
 
 ![4w1h](https://user-images.githubusercontent.com/80378720/114154835-754dff00-993e-11eb-8826-6693a6483a2c.png)
+
+
 
 
 
@@ -46,9 +52,14 @@ Introduction :
 
 
 
+
+
 # HIGH LEVEL REQUIREMENTS
 
 ![Highlevelreq - Made with DesignCap](https://user-images.githubusercontent.com/80378720/114171788-65401a80-9952-11eb-8e17-9e5eb0d71aa5.jpg)
+
+
+
 
 
 
