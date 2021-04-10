@@ -10,3 +10,7 @@ ACCORDING TO BMI OPTIONS GIVEN :
 
 ![GYM](https://user-images.githubusercontent.com/80378720/114140491-f4870700-992d-11eb-949a-e23ab514ba5f.png)
 
+
+### CONTRIBUTOR NAME AND SFID
+
+###### HARSIMRAN SINGH (258292)
