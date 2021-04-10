@@ -1,0 +1,52 @@
+        -:    0:Source:gymdiet.h
+        -:    0:Graph:bmi.gcno
+        -:    0:Data:bmi.gcda
+        -:    0:Runs:1
+        -:    1:#ifndef gymdiet
+        -:    2:#define gymdiet
+        -:    3:
+    #####:    4:void diet()
+        -:    5:{
+    #####:    6:  printf("MILK,FRUITS,VEGGIES,CHICKEN,PANEER,POHA,OATS,WHEY PROTIEN\n\n");
+    #####:    7:     printf("AMOUNT TO BE PAID = 1000RS\n\n");
+    #####:    8:}
+        -:    9:
+        1:   10:void gymlist()
+        -:   11:{
+        1:   12: printf("NEARBY GYMS ARE\n 1.GOLD's GYM\n 2.BURN GYM\n 3.ANYTIME FITNESS\n 4.CLUB VIVA\n 5.CODE FITNESS\n\n CHOOSE ANY ONE=\n");
+        -:   13:        int gym_choice;
+        1:   14:        scanf("%d",&gym_choice);
+        -:   15:        
+        1:   16:        if(gym_choice==1)
+        -:   17:      {
+        -:   18:       
+        1:   19:          printf("ADDRESS = SCO 43 MAIN MARKET SECTOR 32 LUDHIANA PUNJAB INDIA\n");
+        1:   20:          printf("AMOUNT TO BE PAID = 1000RS\n\n");
+        -:   21:       
+        -:   22:      }
+    #####:   23:     else if(gym_choice==2)
+        -:   24:      {
+        -:   25:       
+    #####:   26:          printf("ADDRESS = SCO 102 SECTOR 40 LUDHIANA PUNJAB INDIA\n");
+    #####:   27:          printf("AMOUNT TO BE PAID = 1000RS\n\n");
+        -:   28:      }
+    #####:   29:     else if(gym_choice==3)
+        -:   30:      {
+        -:   31:       
+    #####:   32:          printf("ADDRESS = COMPLESX NO. 1 MAIN MARKET VILLAGE GILL LUDHIANA PUNJAB INDIA\n");
+    #####:   33:          printf("AMOUNT TO BE PAID = 1000RS\n\n");
+        -:   34:      }
+    #####:   35:     else if(gym_choice==4)
+        -:   36:      {
+        -:   37:       
+    #####:   38:          printf("ADDRESS = SHOP N0.11 CHANDIGARH ROAD LUDHIANA PUNJAB INDIA\n");
+    #####:   39:          printf("AMOUNT TO BE PAID = 1000RS\n\n");
+        -:   40:      }
+    #####:   41:     else if(gym_choice==5)
+        -:   42:      {
+        -:   43:    
+    #####:   44:          printf("ADDRESS = SCO 100 1st FLOOR MAIN MARKET TAJPUR ROAD LUDHIANA PUNJAB INDIA\n");
+    #####:   45:          printf("AMOUNT TO BE PAID = 1000RS\n\n");
+        -:   46:      }
+        1:   47:}
+        -:   48:#endif
