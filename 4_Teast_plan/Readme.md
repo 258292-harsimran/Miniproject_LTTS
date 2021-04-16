@@ -1,6 +1,6 @@
 # TEST PLAN:
 
-## Table no: High level test plan
+## TEST CASES 
 
 |Test ID | Description | Exp I/P | Exp O/P |
 |--------|-------------|---------|---------|
