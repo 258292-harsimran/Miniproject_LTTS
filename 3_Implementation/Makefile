@@ -18,7 +18,7 @@ src/unity.c\
 src/bodymassindex.c
 
 # All test source files
-TEST_SRC = test/Test_Account_Calculator.c\
+TEST_SRC = test/bmi.c\
 unity/unity.c
 
 # Document files
